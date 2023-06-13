@@ -10,7 +10,7 @@ import (
 	"github.com/aws/aws-sdk-go/service/s3/s3manager"
 	"github.com/aws/aws-sdk-go/service/sns"
 	"github.com/caarlos0/env"
-	"github.com/kimtaek/gamora/pkg/helper"
+	"github.com/seldinet/gamora/pkg/helper"
 	"mime/multipart"
 	"strings"
 )

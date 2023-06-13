@@ -1,7 +1,7 @@
 package geo
 
 import (
-	"github.com/kimtaek/gamora/pkg/helper"
+	"github.com/seldinet/gamora/pkg/helper"
 	"net"
 	"testing"
 )

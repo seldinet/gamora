@@ -5,7 +5,7 @@ import (
 	"github.com/caarlos0/env"
 	"github.com/fatih/color"
 	"github.com/gomodule/redigo/redis"
-	"github.com/kimtaek/gamora/pkg/slack"
+	"github.com/seldinet/gamora/pkg/slack"
 	"os"
 	"os/signal"
 	"syscall"

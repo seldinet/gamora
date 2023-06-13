@@ -2,7 +2,7 @@ package respond
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/kimtaek/gamora/pkg/i18n"
+	"github.com/seldinet/gamora/pkg/i18n"
 	"net/http"
 )
 

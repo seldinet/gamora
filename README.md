@@ -1,4 +1,4 @@
 # Gamora
-[![Go Report](https://goreportcard.com/badge/github.com/kimtaek/gamora)](https://goreportcard.com/report/github.com/kimtaek/gamora)
+[![Go Report](https://goreportcard.com/badge/github.com/seldinet/gamora)](https://goreportcard.com/report/github.com/seldinet/gamora)
 
 Gamora is a programming for go project basic helper

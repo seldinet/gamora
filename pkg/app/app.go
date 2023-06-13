@@ -3,7 +3,7 @@ package app
 import (
 	"fmt"
 	"github.com/caarlos0/env"
-	"github.com/kimtaek/gamora/pkg/helper"
+	"github.com/seldinet/gamora/pkg/helper"
 )
 
 // Configure config for application

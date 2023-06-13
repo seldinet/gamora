@@ -4,7 +4,7 @@ import (
 	"github.com/caarlos0/env"
 	"github.com/gin-gonic/gin"
 	"github.com/go-ini/ini"
-	"github.com/kimtaek/gamora/constants/i18n"
+	"github.com/seldinet/gamora/constants/i18n"
 	"golang.org/x/text/language"
 	"strings"
 )

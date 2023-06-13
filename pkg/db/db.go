@@ -6,7 +6,7 @@ import (
 	"github.com/fatih/color"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql" // import global
-	"github.com/kimtaek/gamora/pkg/slack"
+	"github.com/seldinet/gamora/pkg/slack"
 	"math"
 	"os"
 	"time"

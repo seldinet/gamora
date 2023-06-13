@@ -1,4 +1,4 @@
-module github.com/kimtaek/gamora
+module github.com/seldinet/gamora
 
 go 1.14
 
