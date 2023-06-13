@@ -6,7 +6,7 @@ import (
 	"net/http"
 )
 
-// Source defined response source
+// Source defined response source -co
 type Source struct {
 	Code        int         `json:"-"`
 	Data        interface{} `json:"data"`
