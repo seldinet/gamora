@@ -1,4 +1,4 @@
-module github.com/Jumpin-kr/gamora
+module github.com/seldinet/gamora
 
 go 1.14
 
